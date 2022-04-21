@@ -1,6 +1,8 @@
 # applover_app
 
-A new Flutter application with Applover login UI using BloC
+A new Flutter application with Applover login UI using BloC.
+
+This repository will be public for 5 more days
 
 ## Getting Started
 
