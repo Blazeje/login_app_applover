@@ -1,6 +1,6 @@
 # applover_app
 
-A new Flutter application.
+A new Flutter application with Applover login UI using BloC
 
 ## Getting Started
 
